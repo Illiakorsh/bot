@@ -12,14 +12,14 @@ from datetime import datetime, timedelta
 
 
 # === Налаштування Telegram ===
-TELEGRAM_TOKEN = "7779870504:AAHg53vk6YETxxueqnR27_HWEqAyyX2RN3s"
-TELEGRAM_CHAT_ID = "795340620"
+TELEGRAM_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 # === Налаштування сайту GymBeam ===
-LOGIN_URL = "https://part-time.gymbeam.com/web/login"
-SHIFTS_URL = "https://part-time.gymbeam.com/news"
-EMAIL = "illiakorshunov8@gmail.com"
-PASSWORD = "Kokosik123_"
+LOGIN_URL = ""
+SHIFTS_URL = ""
+EMAIL = ""
+PASSWORD = ""
 
 # === Файл для збереження змін ===
 DATA_FILE = "shifts.json"
